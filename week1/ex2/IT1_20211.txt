@@ -1,0 +1,10 @@
+SubjectID|IT1
+Subject|Lap Trinh Mang
+F|30|70
+Semester|20211
+StudentCount|5
+S|20180000|Nguyen Van | A |10|10|A
+S|20180001|Nguyen Van | B |7|7|B
+S|20180002|Nguyen Van | C |6|6|C
+S|20180003|Nguyen Van | D |4|5.5|D
+S|20180004|Nguyen Van | F |10|1|F

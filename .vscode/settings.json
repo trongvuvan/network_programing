@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "typeinfo": "c",
+        "string.h": "c",
+        "menu.h": "c",
+        "socket.h": "c",
+        "in.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "netdb.h": "c",
+        "ctype.h": "c"
+    }
+}
